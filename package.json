@@ -1,5 +1,5 @@
 {
-  "name": "karma-selenium-grid-launcher",
+  "name": "@doubleslashde/karma-selenium-grid-launcher",
   "version": "0.3.1",
   "description": "Launcher for Remote WebDriver instances on a Selenium Grid; forked from karma-webdriver-launcher.",
   "main": "index.js",
